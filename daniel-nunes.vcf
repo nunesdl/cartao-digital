@@ -2,10 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 N:Nunes;Daniel;;;
 FN:Daniel Nunes
-TEL;TYPE=CELL,HOME:+5542999128484
+TEL;TYPE=CELL,HOME:+5542988339614
 TEL;TYPE=CELL,WORK:+5542999000160
 EMAIL;TYPE=INTERNET:dlnunes@mail.com
-URL:https://www.linkedin.com/in/dlnunes/
-X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/daniel.luiz.nunes/
 ADR;TYPE=WORK:;;;Ponta Grossa;PR;;Brasil
 END:VCARD
