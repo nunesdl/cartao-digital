@@ -3,7 +3,8 @@ VERSION:3.0
 N:Nunes;Daniel;;;
 FN:Daniel Nunes
 TITLE:Executivo de Relacionamento e Negócios
-TEL;TYPE=CELL:+5542999128484
+TEL;TYPE=CELL,HOME:+5542999128484
+TEL;TYPE=CELL,WORK:+5542999000160
 EMAIL;TYPE=INTERNET:dlnunes@mail.com
 URL:https://www.linkedin.com/in/dlnunes/
 ADR;TYPE=WORK:;;;Ponta Grossa;PR;;Brasil
